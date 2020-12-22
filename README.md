@@ -1,4 +1,5 @@
 # Client with React and WebApi with C# and EntityFramework-SQL SERVER
+## Frontend - 70% & Backend - 30%
 
 ### Frontend
 - React
