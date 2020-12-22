@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Krutik\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Krutik\\.nuget\\packages"
+    ]
+  }
+}
